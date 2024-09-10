@@ -1,0 +1,141 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "properties": {
+          "uniID": 1,
+          "name": "Back Bay Brewing Company",
+          "address": "614 Norfolk Avenue, Virginia Beach, Virginia 23451",
+          "lat": 36.8376,
+          "lon": -75.9810375
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.9810375,
+            36.8376
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "uniID": 2,
+          "name": "Commonwealth Brewing Company",
+          "address": "2444 Pleasure House Road, Virginia Beach, Virginia 23455",
+          "lat": 36.9134828,
+          "lon": -76.1318765
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -76.1318765,
+            36.9134828
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "uniID": 3,
+          "name": "Home Republic Brewing Company",
+          "address": "238 Laskin Road, Virginia Beach, Virginia 23451",
+          "lat": 36.8593257,
+          "lon": -75.9786601
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.9786601,
+            36.8593257
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "uniID": 4,
+          "name": "New Realm Brewing Company",
+          "address": "1209 Craft Lane, Virginia Beach, Virginia 23454",
+          "lat": 36.7765518,
+          "lon": -76.006241
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -76.006241,
+            36.7765518
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "uniID": 5,
+          "name": "Aleworks Brewing Company",
+          "address": "189 Ewell Road, Williamsburg, Virginia 23188",
+          "lat": 37.320776,
+          "lon": -76.73242
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -76.73242,
+            37.320776
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "uniID": 6,
+          "name": "Billsburg Brewery",
+          "address": "2050 Jamestown Road, Williamsburg, Virginia 23185",
+          "lat": 37.2702476,
+          "lon": -76.7081862
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -76.7081862,
+            37.2702476
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "uniID": 7,
+          "name": "Strangeways Brewing",
+          "address": "1430 High Street, Suite 1103, Williamsburg, Virginia 23185 ",
+          "lat": 37.2886802,
+          "lon": -76.7224907
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -76.7224907,
+            37.2886802
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "uniID": 8,
+          "name": "Precarious Beer Project",
+          "address": "119 South Henry Street, Williamsburg, Virginia 23185",
+          "lat": 37.2701704,
+          "lon": -76.7058308
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -76.7058308,
+            37.2701704
+          ]
+        }
+      }
+    ]
+  }
